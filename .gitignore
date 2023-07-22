@@ -1,0 +1,9 @@
+# Compiled object files
+/build/
+
+# Compiled binary
+/bin/
+
+# clangd
+compile_commands.json
+.cache
